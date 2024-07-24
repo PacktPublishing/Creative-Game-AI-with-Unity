@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c479626bca6cda740bef4acbb1cbbb2b, type: 3}
+  m_Name: Part1_FollowMissionDialogue
+  m_EditorClassIdentifier: 
+  noteForMissionPart: Player meets witch, the player follows the witch to the bridge
+  startPartOfMissionDialogue:
+  - Hello! Sir?
+  - If you don't mind, I need a little help.
+  - Actually, hm...
+  - You're a little short.
+  - Might as well try.
+  - Follow me!
+  playerFollowingToDestinationDialogue:
+  - Been stuck here all day.
+  - Some jerk took my stool.
+  promptPlayerAtDestinationDialogue:
+  - Alright, here we are.
+  - Can you reach that lever?
+  playerCompletesPartDialogue:
+  - Yayyyy!!
+  - You did it!

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c479626bca6cda740bef4acbb1cbbb2b, type: 3}
+  m_Name: Part2_FollowMissionDialogue
+  m_EditorClassIdentifier: 
+  noteForMissionPart: Follow mission part 2
+  startPartOfMissionDialogue:
+  - I need you for one more thing.
+  - Hope you don't mind!
+  - Just a little further across the bridge.
+  playerFollowingToDestinationDialogue:
+  - Careful, it's slippery.
+  - Oh, where are my manners!
+  - I'm Sennaar.
+  - I know what you're thinking.
+  - I'm not actually a witch.
+  - It's just a hobby.
+  - That's my house up ahead.
+  - 'Right where I left it. '
+  promptPlayerAtDestinationDialogue:
+  - Welcome! Join me for dinner.
+  - Don't be shy, come on inside.
+  playerCompletesPartDialogue:
+  - Hope you like goblin tail sandwiches.
