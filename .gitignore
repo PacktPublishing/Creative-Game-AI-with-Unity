@@ -24,7 +24,9 @@
 /CGAI_01-04/Assets/Settings
 /CGAI_01-04/Assets/TutorialInfo
 /CGAI_01-04/Assets/Unity.VisualScripting.Generated
-/CGAI_01-04/ProjectSettings
+
+/[Uu]ser[Ss]ettings/
+/ProjectSettings/EditorUserSettings.asset
 
 
 # MemoryCaptures can get excessive in size.
